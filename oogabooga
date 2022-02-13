@@ -1,3 +1,6 @@
+-- Credits to Stefanuk12
+-- github.com/Stefanuk12
+
 local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/yxeternal1337/silent2/main/oogabooga2"))()
 Aiming.TeamCheck(false)
 
